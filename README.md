@@ -133,18 +133,17 @@ All required packages are listed in `requirements.txt`. Typical dependencies inc
 
 ---
 
-## 📜 License
 
-This project is under the **MIT License** — free to use and modify.
 
----
+## 📝 License
 
-## 📫 Contact
-
-For questions or collaboration, connect with me via GitHub!
+This project is licensed under the **MIT License**.
 
 ---
 
-Let me know if you want this formatted with badges, deployment links, or automated CI (GitHub Actions) steps!
+### ✨ Made with ❤️ by **Adarsh Thakur**
 
-[1]: https://en.wikipedia.org/wiki/Customer_lifetime_value?utm_source=chatgpt.com "Customer lifetime value"
+
+📍 LinkedIn: [https://www.linkedin.com/in/adarsh-thakur-8368](https://www.linkedin.com/in/adarsh-thakur-8368)
+
+📍 GitHub: [https://github.com/Adarshthakur-850](https://github.com/Adarshthakur-850)
