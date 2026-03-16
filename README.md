@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Lifetime Value Prediction
 
 Predicts future customer spending using Random Forest Regression on RFM features.
@@ -23,3 +24,7 @@ Run the web application:
 streamlit run app.py
 ```
 Enter Recency, Frequency, and Monetary values to estimate future value.
+=======
+# Customer-Lifetime-Value
+ml project
+>>>>>>> 29787e2814f9a1e65919a538a218a8a39ca0e997
