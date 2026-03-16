@@ -1,8 +1,3 @@
-Here’s a professional README tailored to your repository **[Live Customer Lifetime Value Prediction Project README](https://github.com/Adarshthakur-850/Customer-Lifetime-Value)** (structured for clarity, usability, and impact):
-
----
-
-```markdown
 # Customer Lifetime Value Prediction
 
 This repository implements a **Customer Lifetime Value (CLV)** prediction solution using machine learning.  
